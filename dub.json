@@ -1,0 +1,9 @@
+{
+	"name": "argparse",
+	"authors": [
+		"ciaran"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, ciaran",
+	"license": "proprietary"
+}
